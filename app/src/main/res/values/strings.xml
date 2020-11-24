@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica_3</string>
+    <string name="texto">Bienvenidos a la Práctica 3</string>
+    <string name="descarga_btn">Descarga Imagen</string>
+    <string name="descarga_btn_xml">Descarga XML</string>
+    <string name="descarga_img_btn">Comienza Descarga</string>
+    <string name="texto_descargas">Entradas StackOverflow</string>
+</resources>
